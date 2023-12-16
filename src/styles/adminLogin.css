@@ -1,0 +1,56 @@
+.wrapper3 {
+    width:90%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    background-color: gray;
+    justify-content: space-evenly;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.userId{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+
+}
+.password{
+    display: flex;
+    justify-content: space-evenly;
+}
+.lb{
+    border: 1px solid black;
+    background-color: blue;
+    width: 10%;
+    color:white;
+    padding: 1rem;
+
+}
+.event{
+    width: 100%;
+    background-color: lightskyblue;
+    padding: 1rem;
+    font-size: 1rem;
+}
+.rb{
+    border: 1px solid black;
+    background-color: skyblue;
+    width: 30%;
+    color:black;
+    padding: 1rem;
+
+}
+.footer{
+    display: flex;
+    justify-content: end;
+    height: 100%;
+    gap: 1rem;
+    margin-right: 37rem;
+}
+.bb{
+    background-color: black;
+    width: 15%;
+    padding: 1rem;
+    border-radius: 10px;
+}

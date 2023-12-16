@@ -1,0 +1,16 @@
+.login{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 2em;
+    width: 200px;
+    cursor: pointer;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+}
+
+.login:hover{
+    background-color: blue;
+    color: white;
+}
